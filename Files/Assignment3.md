@@ -26,3 +26,6 @@
 *  When cloning a repo, you put the already created repo onto your local machine. This includes its history and all of the changes made. When creating a new repo from scratch, the developer is starting with a clean slate, so to speak, to begin a new project.
 5. **c. Practice cloning a public repo from somewhere.**
 * I have done this at least once during this class.
+6. **How do you look at the status of your repo? What information does this give you?**
+* This is a code fence. git status
+* This command displays the status of the working directing and the staging area. It will display what changes have been staged, which ones have not, and which files are not being tracked by git.
