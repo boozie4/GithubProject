@@ -29,3 +29,9 @@
 6. **How do you look at the status of your repo? What information does this give you?**
 * This is a code fence. git status
 * This command displays the status of the working directing and the staging area. It will display what changes have been staged, which ones have not, and which files are not being tracked by git.
+7. **How do you stage changes to your local repo in prepartion for a commit?**
+* This is a code fence. git add -A
+8. **How do you commit changes to your local repo?**
+* Once the changes are staged, you would use "git commit -m 'commit message'"
+9. **Include an example of a file that will allow you to "ignore" files in your repo. What kinds of files should not be part of your version control?**
+* 
