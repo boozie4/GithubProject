@@ -4,5 +4,6 @@ A good README file should provide an in depepth explanation of the software proj
 **LIST OF IMPORTANT SECTIONS
 *Item 1 Title of Project
 *Item 2 Brief Description of Project
-*Item 3 How To Install the Software
-*Item 4 
+*Item 3 How to Install the Software
+*Item 4 How to Use the Software
+*Item 5 Updates and Bug Fixes
