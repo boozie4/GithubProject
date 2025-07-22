@@ -8,5 +8,5 @@
 2. **How do you configure the core editor for git?**
 * This is a code fence. git config --global core.editor "<editor_command>"
 3. **How do you view your global config and your local (for the repo) config?**
-* Global git config - git config --global --list
-* Local git congif - git config --list
+* Global git config: git config --global --list
+* Local git config: git config --list
