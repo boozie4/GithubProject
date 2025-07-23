@@ -34,4 +34,16 @@
 8. **How do you commit changes to your local repo?**
 * Once the changes are staged, you would use "git commit -m 'commit message'"
 9. **Include an example of a file that will allow you to "ignore" files in your repo. What kinds of files should not be part of your version control?**
-* 
+* In order to "ignore" files in your repo, and .gitignore file needs to be created. An example of a .gitignore file I found at https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository#_ignoring is as follows:  
+<p># ignore all .a files
+*.a  
+# but do track lib.a, even though you're ignoring .a files above  
+!lib.a  
+# only ignore the TODO file in the current directory, not subdir/TODO  
+/TODO  
+# ignore all files in any directory named build  
+build/  
+# ignore doc/notes.txt, but not doc/server/arch.txt  
+doc/*.txt  
+# ignore all .pdf files in the doc/ directory and any of its subdirectories  
+doc/**/*.pdf<p>
