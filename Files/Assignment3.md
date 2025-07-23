@@ -47,3 +47,12 @@ build/<br>
 doc/*.txt<br>
 # ignore all .pdf files in the doc/ directory and any of its subdirectories<br>
 doc/**/*.pdf<p>
+
+* Files that should not be included as part of a developers version control include the following:
+<p>files that contain sensitive data, such as passwords<br>
+files that are generated during the build process, such as log files or temporary files<br>
+files that are too large and exceed the maximum size limit for Github, which according to docs.github.com is 100MiB(Mebibyte)<br>
+any files that contain local machine specific confogurations or any local ID configurations<p>
+
+10. **When files are under version control, you can't delete them using the OS commands. How do you delete files using git?**
+* 
