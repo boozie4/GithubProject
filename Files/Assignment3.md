@@ -75,3 +75,9 @@ any files that contain local machine specific confogurations or any local ID con
  * To see a list of local branches, a developer would use the command "git branch". The current branch will be marked with an asterisk.
  * To see the remote branches, a developer would use the command "git branch -r".
  * To see both remote and local branches at the same time, a developer would use the command "git brand -a".
+ 16. **View the local branches and create a new branch. Look again. Show before and after.**
+ * Screenshots of before and adding a new branch are in the Screenshots folder.
+ 17. **What are different ways to switch to a new branch?**
+ * In order to switch to a different branch, a developer can use one of two commands. The first command, which is the newer one, is "git switch 'branch name'". The second way, which is older but still supported, is "git checkout 'branch name'". 
+ 18. **Delete your local branch without pushing to a remote or merging to your main branch. Show that it's gone.**
+ * A screenshot showing the branch named "new" as deleted is stored in the "Screenshots" folder under the name "LocalBranchesAfterNewBranchDeleted.png".
