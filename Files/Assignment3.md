@@ -55,4 +55,8 @@ files that are too large and exceed the maximum size limit for Github, which acc
 any files that contain local machine specific confogurations or any local ID configurations<p>
 
 10. **When files are under version control, you can't delete them using the OS commands. How do you delete files using git?**
+* To delete files using git, you would use the command "git rm" followed by the name of the file. For example, if I were to delete the current file I am working on, I would use the command "git rm Assignment3.md".
+
+## Working With a Remote
+11. **How do you view the remote repo that is associated with your local repo?**
 * 
