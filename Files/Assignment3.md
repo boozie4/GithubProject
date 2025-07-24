@@ -70,4 +70,8 @@ any files that contain local machine specific confogurations or any local ID con
  14. **Make some changes in your repo and using the command line to sync those changes with your remote repo. Show the results.**
  * Image is stored in the Screenshots  folder as "TerminalSyncResults.png".
 
- 
+ ## Branches
+ 15. **How do you view the local and the remote branches for your repositories?**
+ * To see a list of local branches, a developer would use the command "git branch". The current branch will be marked with an asterisk.
+ * To see the remote branches, a developer would use the command "git branch -r".
+ * To see both remote and local branches at the same time, a developer would use the command "git brand -a".
