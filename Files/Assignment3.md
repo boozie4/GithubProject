@@ -59,4 +59,12 @@ any files that contain local machine specific confogurations or any local ID con
 
 ## Working With a Remote
 11. **How do you view the remote repo that is associated with your local repo?**
-* 
+* Entering the command "git remote -v" allows you to see the URL associated with the local repo. Output from this command would looke like the following:
+<p> origin  git@github.com:OWNER/REPOSITORY.git (fetch)<br>
+ origin  git@github.com:OWNER/REPOSITORY.git (push)<p>
+ 
+ 12. **What is the function of the git fetch command?**
+ *  The "git fetch" command retrieves updates from the remote repo for the developer to inspect before merging them with the current local repo. This command does not change any of the files on the local repo and allows the developer to inspect the changes and choose which changes to merge with the local repo.
+ 13. **What is the difference between fetch and pull. Practice using both and show the results.**
+ * Fetch retrieves updates from the remote repo without merging any of them with the current local repo. Pull automatically merges any updated on the remote repo with the current local repo.
+ 14. **Make some changes in your repo and using the command line to sync those changes with your remote repo. Show the results.**
