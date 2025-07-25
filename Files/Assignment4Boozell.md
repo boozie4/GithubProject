@@ -1,1 +1,2 @@
 # **ACTIVITY 1**
+* I have attached a screenshot of the terminal in VSCode for the commands used for assignment 4. I will admit that I ran into a bit of confusion trying to make sure I did everything correctly. However, I was able to merge both branches and delete the new branch I had created for this assignment. 
