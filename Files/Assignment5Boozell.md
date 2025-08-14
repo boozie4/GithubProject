@@ -21,11 +21,10 @@ My original response to this question was that the space footage was fake. Accor
 
 * This set of questions are complex questions to answer. Ultimately, it seems like the responsibility of output from a system or application falls on anyone who has any interaction with it. It started at the top, right? 
 
-The stakeholders have the responsibility of explaining what is needed to the best of their ability to ensure the output matches the the expected outcome. If the stakeholders are not able to, or fall short on, providing strong requirements, then that only paints part of the picture for the development team to go off.
+* The stakeholders have the responsibility of explaining what is needed to the best of their ability to ensure the output matches the the expected outcome. If the stakeholders are not able to, or fall short on, providing strong requirements, then that only paints part of the picture for the development team to go off.
 
-The development team then has the responsibility to follow the requirements as best as they can to ensure the desired outcome is met. If the development team only applies partial effort, then the application or system has a higher chance of not performing as expected or falling short of the requirements provided by the stakeholders.
+* The development team then has the responsibility to follow the requirements as best as they can to ensure the desired outcome is met. If the development team only applies partial effort, then the application or system has a higher chance of not performing as expected or falling short of the requirements provided by the stakeholders.
 
-Next, the testing team. They have the responsibility to test the application or system as thoroughly as they are able to in order to ensure that any bugs in the project are caught and fixed before deployment. Again, if the testers do not perform their duties to the best of their ability, there is a higher chance that bugs make it through the testing phase and that users run into issues when using the system or application. 
+* Next, the testing team. They have the responsibility to test the application or system as thoroughly as they are able to in order to ensure that any bugs in the project are caught and fixed before deployment. Again, if the testers do not perform their duties to the best of their ability, there is a higher chance that bugs make it through the testing phase and that users run into issues when using the system or application. 
 
-Lastly, the end user. The user, no matter what application they are using, video they are watching, ariticle they are reading, should always question the source. It is the responsibility of the user to ensure that any information they digest comes from a legitimate source.
-
+* Lastly, the end user. The user, no matter what application they are using, video they are watching, ariticle they are reading, should always question the source. It is the responsibility of the user to ensure that any information they digest comes from a legitimate source.
