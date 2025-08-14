@@ -1,23 +1,23 @@
-**How easy is it for you to spot a "deep fake." Talk about your experience with the "Moon Disaster."**
+## How easy is it for you to spot a "deep fake." Talk about your experience with the "Moon Disaster."
 Although I knew the video was a fake given that the Apollo 11 moon mission did not end in disaster, it was rather difficult for me to actually tell while watching the video what aspects were faked. I could tell that at least most of the footage used was real footage. I also thought his jawline seemed to be moving artificially. At the end of the video, there were a number of questions. Below is how I answered originally and then the truth about those questions.
 
-## 1. Was the text of the speech real?
+**1. Was the text of the speech real?**
 My original answer to this question was that it was fake. Mostly because I knew the Apollo 11 mission did not end in disaster. So then comes into question... when refering to deep fake videos, what classifies text as real? Does it just have to be written by someone at some point in time? If that is the case, then I would think that that the text for most deep fake videos is probably "real". 
 
 In the case for this video, the text that was read by President Nixon was indeed real. It was originally written by his speech writer, Bill Safire, just in case something disasterous did happen during the Apollo 11 mission, and the astronauts ended up stranded on the moon. 
 
-## 2. Was Nixon's face real?
+**2. Was Nixon's face real?**
 My original answer to this question was real. Although I thought the way his jawline was moving was artificial, I felt as though the rest of his face looked real. I thought that the people who made this video could have used real images or real video of President Nixon and only altered the area around his mouth to make it seem like he was giving this speech even though it never really happened. 
 
 The explanation for this question was that Nixon's face was fake, and that aritificial intelligence was used to manipulate the area around his mouth to move in a way that made it seem like he was giving this speech. So then, to me, that brings the question again of what is considered real in a deep fake video? If the rest of his face is real, and only the area around his mouth was manipulated, would that not mean that his face was real in the video? 
 
-## 3. Was Nixon's voice real?
+**3. Was Nixon's voice real?**
 Ny original response to this question was that his voice was fake. This turned out to be correct. According to the explanation for this questions, his voice was entirely synthesized using artificial intelligence. The A.I. was used to convert an actor's voice, who was actually reading the speech, into Nixon's voice.
 
-## 4. Was the space footage real?
+**4. Was the space footage real?**
 My original response to this question was that the space footage was fake. According to the explanation for this question, they used real footage from the Apollo 11 moon mission. Misinformation techniques were then used on the clips to deliver the footage in a way that told a different story than what actually happened. 
 
-**Who is responsible when the output is deceptive? Explore the idea of accountability in generative systems. If a deepfake spreads misinformation, who is to blame — the model, the developer, or the user? In SE, who is responsible for bugs that escape testing?**
+## Who is responsible when the output is deceptive? Explore the idea of accountability in generative systems. If a deepfake spreads misinformation, who is to blame — the model, the developer, or the user? In SE, who is responsible for bugs that escape testing?
 
 * This set of questions are complex questions to answer. Ultimately, it seems like the responsibility of output from a system or application falls on anyone who has any interaction with it. It started at the top, right? 
 
