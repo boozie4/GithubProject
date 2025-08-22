@@ -1,7 +1,7 @@
 # MSSE-640-Assignment1
 Types of Version Control Systems
-	Centralized Version Control Systems (CVCS)
-	Distributes Version Control Systems (DVCS)
+* Centralized Version Control Systems (CVCS)
+* Distributes Version Control Systems (DVCS)
 
 	Git is a DVCS
 
