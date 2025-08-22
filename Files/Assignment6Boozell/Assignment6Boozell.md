@@ -11,4 +11,5 @@ Some components of GitHub Actions include the following:
 * Actions - Pre-defined sets of jobs or code that perform specific tasks in a workflow. These actions are able to be reused. The help to reduce the amount of code that is repeated in the workflow file. Actions cal also pull a repository from GitHub, set up the correct toolchain for a build environment, or set up authentication to a cloud provider.
 * Runners - A server that runs a workflow when it is triggered. Each runner is able to run a single job at a time. GitHub provides the following runners to be able to run workflows:
 * * Ubuntu
-* * 
+* * Windows
+* * macOS
